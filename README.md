@@ -10,6 +10,6 @@ The histogram associated to this model and the montecarlo simulation
 
 ![Histogram](https://raw.github.com/rmaestre/Monte-Carlo-Estimation/master/results/histogram.png)
 
-The Cumulative distribution function
+CDF
 
 ![Accumulated](https://raw.github.com/rmaestre/Monte-Carlo-Estimation/master/results/accumulated.png)
